@@ -1,0 +1,9 @@
+1. run artisan commnd: php artisan make:rule "RulesName" (screenshot given)
+
+2. Write Validation Rules in (App\Rules\"RulesName") Class
+
+3. Apply in Controller Class.
+
+4. Edit Rules explained well in Controller Class
+
+5. edit.blade.php view check for show date in date field (screenshot given)

@@ -1,0 +1,10 @@
+1. Configure .env file for mailing (here mailtrap.io is used for testing purpose)
+
+2. create Mailable Object as like "ConfirmationEmail" (ScreenShot Given)
+
+3. Open App/Mail/ConfirmationEmail Class - 
+	*Declare a global variable like "$obj"
+	*configure Constructor for email body & return mailsendconf view in views folder
+	*here construction parameter receives an Object
+
+
